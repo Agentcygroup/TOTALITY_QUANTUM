@@ -1,0 +1,1 @@
+[otel_exporter.otlp.endpoint="http://localhost:4317"]
