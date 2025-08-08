@@ -1,0 +1,1 @@
+function mintNFT() { /* minting logic */ }
