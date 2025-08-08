@@ -1,0 +1,5 @@
+__pycache__/
+*.log
+*.tar.gz
+*.dmg
+*.DS_Store
